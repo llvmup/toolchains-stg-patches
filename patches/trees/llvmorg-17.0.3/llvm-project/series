@@ -1,0 +1,9 @@
+# This series applies on Git commit d0cf7a1d1af3fbb5ab3150334127a31b1ef808c0
+01-llvm-rename-cmake-exports-with-llvm-prefix.patch
+02-llvm-export-library-properties.patch
+03-llvm-install-license.patch
+04-mlir-export-library-properties.patch
+05-mlir-install-license.patch
+06-clang-export-library-properties.patch
+07-clang-install-license.patch
+08-clang-install-modulemaps-with-headers.patch
